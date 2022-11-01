@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Duplicate results
 - Please see scripts/run_all.sh for ways to run different models/datasets/CL algortihms.
 ```sh
-cd scripts; bash run_all.sh pretrained_rn18 cifar100 20 0
+cd scripts; bash run_all.sh pretrained_rn18 1000 cifar100 20 0
 ```
 
 
