@@ -2,6 +2,7 @@
 ----
 
 This repository is an official implementation of *Do Pre-trained Models Benefit Equally in Continual Learning?* in Pytorch (WACV 2023)
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/html/Lee_Do_Pre-Trained_Models_Benefit_Equally_in_Continual_Learning_WACV_2023_paper.html)][[Project Website](https://kylee5.web.illinois.edu/publication/WACV23/index.html)]
 
 
 ## Abstract
