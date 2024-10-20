@@ -43,11 +43,13 @@ If you use this paper/code in your research, please consider citing us:
 **Do Pre-trained Models Benefit Equally in Continual Learning?**
 
 ```
-@inproceedings{lee2023pretrained_models_cl,
-  author={Lee, Kuan-Ying and Zhong, Yuanyi and Wang, Yu-Xiong},
-  title={Do Pre-trained Models Benefit Equally in Continual Learning?},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-  year={2023},
+@InProceedings{Lee_2023_WACV,
+    author    = {Lee, Kuan-Ying and Zhong, Yuanyi and Wang, Yu-Xiong},
+    title     = {Do Pre-Trained Models Benefit Equally in Continual Learning?},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2023},
+    pages     = {6485-6493}
 }
 ```
 
